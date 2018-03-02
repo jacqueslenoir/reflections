@@ -13,3 +13,8 @@
 [4] What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	
 	Branches seem like a great way to test several approaches for the same program while keeping track of changes and progress on all of them.
+
+[5] How do the diagrams help you visualize the branch structure?
+
+	They are very useful to understand the concepts of parent commits and reachability, it really helps to see it graphically.
+

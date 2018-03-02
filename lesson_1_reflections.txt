@@ -1,0 +1,21 @@
+[1] How did viewing a diff between two versions of a file help you see the bug?
+	It was very useful to not have to look through the whole file and proofread everything manually. It was faster and more intuitive, and generally easier to compare both bits of text.
+
+[2] How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	It would be much easier to debug code or restore to an old version if the error is impossible to detect. It would also be good to see the evolution of the code in time, see which priority some parts hold over others.
+
+[3] What are the prons and cons of manually choosing when to create a commit, vs having versions automatically saved?
+	Pros: The code always makes sense (technically), or at least it compiles, and every version represents a logical milestone
+	Cons: The user needs to remember to make a new commit every time a reasonable change is made, and to document that commit accordingly
+
+[4] Why do you think some version control systems allow saving multiple files in one commit, while others treat each file separately?
+	Version control systems like git are better suited to working with interconnected files, such as the .html, .css, and .js required to build a website.
+
+[5] How can you use the commands git log and git diff to view the history of files?
+	I can use git log to search through the list of commits and read the changes added in each of them, and git diff to find out which lines were added and which lines were deleted in every change.
+
+[6] How might using version control make you more confident to make changes that could break something?
+	I feel much more confident now. If it is easy to return to a previous version, then much "riskier" changes can be added to the code without horrible consequences.
+
+[7] What do you want to use Git for?
+	I am not sure yet, but I do want to learn more about how it works. Also probably for future python / java programming courses, to keep track of the changes I make in assignments.

@@ -5,3 +5,11 @@
 [2] How is the staging area different from the working directory and the repository? What value do you think it offers?
 	
 	It provides some sort of an intermediate state where files can be temporarily stored waiting to be committed.
+
+[3] How can you use the staging area to make sure you have one commit per logical change?
+
+	The staging area can be used as an intermediate step when there is a pause in work but not a logical change significant enough for a commit. Then it is easy to keep track of previous work without having a hundred different commits for small changes.
+
+[4] What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	Branches seem like a great way to test several approaches for the same program while keeping track of changes and progress on all of them.

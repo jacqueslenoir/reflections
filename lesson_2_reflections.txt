@@ -18,3 +18,11 @@
 
 	They are very useful to understand the concepts of parent commits and reachability, it really helps to see it graphically.
 
+[6] What is the result of merging two branches together? Why do we represent it in the diagram in the way we do?
+
+	It combines the changes applied on each branch since they deviated from a common parent; we represent it this way because the new commit has both branches as parents.
+
+[7] What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	Git's automatic merging is fast and easy to use, although solving conflicts manually might be tiresome. I guess doing merges manually allows you to really understand the code you are working with and know clearly which lines should be modified, deleted, and kept.
+
